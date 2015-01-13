@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/com/sweet/linking/ContactTab.java" />
+        <ignore path="src/com/sweet/linking/DialTab.java" />
+        <ignore path="src/com/sweet/linking/MessageTab.java" />
+        <ignore path="src/com/sweet/linking/SettingTab.java" />
+    </issue>
+</lint>
